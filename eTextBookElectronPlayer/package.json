@@ -1,0 +1,21 @@
+{
+  "name": "e-textbook-electron-player",
+  "version": "1.0.0",
+  "description": "New version of PC reader to eTextBooks",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manasovdan/eTextBookEditor.git"
+  },
+  "keywords": [
+    "electron",
+    "eTextBook",
+    "reader"
+  ],
+  "author": "Daniel Manasov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manasovdan/eTextBookEditor/issues"
+  },
+  "homepage": "https://github.com/manasovdan/eTextBookEditor#readme"
+}
